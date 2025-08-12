@@ -10,6 +10,9 @@ node_modules
 .npm
 web_modules/
 
+.terraform**
+builds**
+
 # blitz
 /.blitz/
 /.next/
